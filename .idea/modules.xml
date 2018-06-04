@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\WorkFile\z_comic_new-master\app\app.iml" filepath="D:\WorkFile\z_comic_new-master\app\app.iml" />
+      <module fileurl="file://D:\WorkFile\z_comic_new-master\z_comic_new.iml" filepath="D:\WorkFile\z_comic_new-master\z_comic_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/z_comic_new-master.iml" filepath="$PROJECT_DIR$/z_comic_new-master.iml" />
+    </modules>
+  </component>
+</project>
